@@ -1,6 +1,6 @@
 # Power BI Embedded with React Demo
 
-This project is a demonstration of how **Power BI Embedded** can be integrated with a **React** application. It showcases how to embed Power BI analytics and reports into custom dashboards built with React, allowing users to interact with and visualize data in a seamless, interactive way.
+This project is a proof of concept of how **Power BI Embedded** can be integrated with a **React** application. It showcases how to embed Power BI analytics and reports into custom dashboards built with React, allowing users to interact with and visualize data in a seamless, interactive way.
 
 ## Features
 
